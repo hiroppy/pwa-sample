@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+}
+
+.node {
+  background: url(../../../images/node.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100px;
+}
